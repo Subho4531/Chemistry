@@ -31,6 +31,6 @@ Representations of 3 dimensional structures, structural isomers and stereoisomer
 symmetry and chirality, enantiomers, diastereomers, optical activity, absolute configurations and
 conformational analysis. Isomerism in transitional metal compounds
 
-# vii) Organic reactions and synthesis of a drug molecule (4 lectures)
+**vii) Organic reactions and synthesis of a drug molecule (4 lectures)**
 Introduction to reactions involving substitution, addition, elimination, oxidation, reduction, cyclization and
 ring openings. Synthesis of a commonly used drug molecule
