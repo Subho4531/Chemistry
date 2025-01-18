@@ -1,4 +1,4 @@
-#Syllabus:
+# Syllabus:
 
 **i) Atomic and molecular structure (10 lectures)**
 Schrodinger equation. Particle in a box solutions and their applications for simple sample. Molecular orbitals
